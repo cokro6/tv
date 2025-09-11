@@ -96,11 +96,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LF2ZXLR.png" group-title="Movies", HITS NOW
 https://dl.dropboxusercontent.com/scl/fi/em4vhjj1m48j95lh1f7h0/hits-now.m3u8?rlkey=a83afy8cnkjmeo94hb7o3wz98&st=hcftms2e
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/RZriABd.png", HITS
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITSMovies.sg" tvg-chno="HITSMovies.sg" group-title="FILM" tvg-logo="https://i.imgur.com/jfSOSEP.png", HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -163,6 +162,19 @@ https://fta4-cdn-flr.visionplus.id/out/v1/fd25e662b7154c60a94f7c061573ba2d/index
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="Movies", KIX 🔵
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1l99JWAqSdxWNgYMefGnm-xA44CJe8WGRkuuvnO_AgKhY5V5YnijMzqc&s=10" group-title="Movie",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movie",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="Movie" tvg-id="" tvg-name="", Action Movies 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="Movie" tvg-id="" tvg-name="", Action Movies 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
