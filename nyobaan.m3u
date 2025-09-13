@@ -1368,4 +1368,87 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport1-HD.png" group-title="OPTUS",OptusSport1
+https://wahyu1ptv.pages.dev/OptusSport1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport2-HD.png" group-title="OPTUS",OptusSport2
+https://wahyu1ptv.pages.dev/OptusSport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport3-HD.png" group-title="OPTUS",OptusSport3
+https://wahyu1ptv.pages.dev/OptusSport3-HD.m3u8
+
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="AU| OPTUS 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",AU| OPTUS 01 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37401.m3u8
+
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="AU| OPTUS 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",AU| OPTUS 02 LIVE 
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37400.m3u8
+
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="AU| OPTUS 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",AU| OPTUS 03 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37399.m3u8
+
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="AU| OPTUS 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",AU| OPTUS 04 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37398.m3u8
+
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="AU| OPTUS 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",AU| OPTUS 05 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37397.m3u8
+
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="AU| OPTUS 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 06 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37396.m3u8
+
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="AU| OPTUS 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 07 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37395.m3u8
+
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="AU| OPTUS 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 08 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37394.m3u8
+
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="AU| OPTUS 09 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 09 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37393.m3u8
+
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="AU| OPTUS 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 10 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37392.m3u8
+
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="AU| OPTUS 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="OPTUS",OPTUS 11 LIVE
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/37391.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2db8ec9fcc1bf1cebb260800bbff5d1d:31d4a7d5a32bb635b11bbc929f75bcba
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 1 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b53c1b0da6767644880f1fb643816e:4f6f753134fa24314e611973432e124d
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 2 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6b2c1aa0db912dbbcd5d0dc12821e10:ed03a87a8910e7737db55b164e7f0351
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 3 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 4 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 5 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 6 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 7 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
+#EXTINF:-1 group-title="OPTUS" tvg-id="" tvg-logo="https://lo1.in/ppvs/optus.png",OPTUS SPORT 8 HD
+https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
