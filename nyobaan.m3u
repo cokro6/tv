@@ -5,7 +5,7 @@
 
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" url-tvg="https://epg.pw/api/epg.xml?channel_id=412112" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="Movies", HBO
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="HBO Group", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -15,17 +15,30 @@
 https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
 
 
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="Movies", HBO HITS
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="HBO Group", HBO HITS
 https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
 
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="Movies", HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="HBO Group", HBO SIGNATURE
 https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
 
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="Movies", HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="HBO Group", HBO FAMILY
 https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
 
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="Movies", CINEMAX
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="HBO Group", CINEMAX
 https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
+
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_SIGNATURE_HD.png" group-title="HBO Group",HBO SIGNATURE HD
+http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231575
+#EXTINF:-1 tvg-id="HBO Xtreme SD" tvg-name="HBO XTREME HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="HBO Group",HBO XTREME HD
+http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231579
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO+ HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_PLUS_HD.png" group-title="HBO Group",HBO+ HD
+http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231583
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO2 HD" tvg-logo="https://img.hotice.site/icones_channels/HBO_2_HD.png" group-title="HBO Groupl",HBO2 HD
+http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231586
+#EXTINF:-1 tvg-id="br#cinemax-1" tvg-name="CINEMAX HD" tvg-logo="https://img.hotice.site/icones_channels/CineMax_HD.png" group-title="HBO Group",CINEMAX HD
+http://dfkkh.dtwkaf.xyz:80/829119166/117784998/4231065
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -55,9 +68,6 @@ https://dl.dropboxusercontent.com/scl/fi/bmf3yubizhc4nha6vue8o/warner.m3u8?rlkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="Movies", Studio Universal 🟠
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://tv-malaysia.me/wp-content/uploads/2025/04/FILMRISE-MOVIES-LIVE-STREAMING.webp",MIRAMAX
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg" group-title="Movies", MIRAMAX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
@@ -95,34 +105,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/32/1f/13/321f13be5d8e1a2c481711cb7177f438.jpg" group-title="Movies",CINEMACHI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
-https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/41/b2/22/41b2227750488748fbc27e39d9681187.jpg" group-title="Movies",CINEMACHI ACTION
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cd/21/1d/cd211d505672522c820da5623e7c65a2.jpg" group-title="Movies",CINEMACHI MAX
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-https://fta2-cdn-flr.visionplus.id/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/76/c5/7f/76c57f75e6dc85785d39475db52574a4.jpg" group-title="Movies",CINEMACHI XTRA 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-https://fta3-cdn-flr.visionplus.id/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -243,14 +225,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/fd25e662b7154c60a94f7c061573ba2d/index
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="Movies", KIX 🔵
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1l99JWAqSdxWNgYMefGnm-xA44CJe8WGRkuuvnO_AgKhY5V5YnijMzqc&s=10" group-title="Movies",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
