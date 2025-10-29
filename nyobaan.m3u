@@ -3988,8 +3988,7 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=5587
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/558770.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SCIFI MOVIES
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=558770&extension=ts&play_token=Ltr6lrTXKz
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1656166.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SESAME STREET
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1656166&extension=ts&play_token=r2Eg6o8j5w
+
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/558765.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SUPERHERO MOVIES
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=558765&extension=ts&play_token=uuUhe0QFaF
@@ -3999,3 +3998,166 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=5587
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/534118.png" group-title="24/7 MOVIES & SERIES",US| 24/7 BATMAN MOVIES
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=534118&extension=ts&play_token=rDwXHm3JXa
 
+#EXTINF:-1 tvg-logo="" group-title="US| CINEMANIA HOLLYWOOD",##### CINEMANIA HOLLYWOOD #####
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438426&extension=ts&play_token=ZpdxBA0noQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438487&extension=ts&play_token=sJWnGDPbRy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438486&extension=ts&play_token=VS5Xq0psvH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438485&extension=ts&play_token=d2Q5a3vWol
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 4 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438484&extension=ts&play_token=XhzBubPqGw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 5 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438483&extension=ts&play_token=Y394eCZD34
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 6 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438482&extension=ts&play_token=FxtQ0D1zeU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 7 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438481&extension=ts&play_token=S58XoOstgS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 8 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438480&extension=ts&play_token=jSCXzXVL1V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| CM HOLLYWOOD PREMIERE 9 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438479&extension=ts&play_token=oo4b2MA03G
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/CINEMANIA-HOLLYWOOD.png" group-title="US| CINEMANIA HOLLYWOOD",US| C HOLLYWOOD PREMIERE 10 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438478&extension=ts&play_token=FbMdkYbDDP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438477.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438477&extension=ts&play_token=1fEUq5N2Ep
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438476.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438476&extension=ts&play_token=N01FmQaPFg
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438475.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438475&extension=ts&play_token=arQotLoaMz
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438474.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 4 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438474&extension=ts&play_token=RQaV4PWSF5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438473.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 5 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438473&extension=ts&play_token=cPTicEMUcR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438472.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 6 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438472&extension=ts&play_token=r53N5CIZUj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438471.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 7 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438471&extension=ts&play_token=6Z7ZeNyjhj
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438470.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 8 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438470&extension=ts&play_token=uFEEWjncJ5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438469.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 9 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438469&extension=ts&play_token=n3MQS6QwdP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438468.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 10 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438468&extension=ts&play_token=nAqa5FJTKJ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438467.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 11 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438467&extension=ts&play_token=MBsjA9jTQL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438466.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 12 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438466&extension=ts&play_token=hqR91IKwPD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438465.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 13 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438465&extension=ts&play_token=E6RPMmgZni
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438464.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 14 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438464&extension=ts&play_token=H5fljqqwWY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438463.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 15 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438463&extension=ts&play_token=QNe2ShSIeQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438462.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 16 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438462&extension=ts&play_token=nlv5fxOC7t
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438461.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 17 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438461&extension=ts&play_token=QYpTRxFZ1n
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438460.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 18 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438460&extension=ts&play_token=DxNayHAOL5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438459.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 19 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438459&extension=ts&play_token=mqwd0sUy27
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438458.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 20 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438458&extension=ts&play_token=GtZS9862Br
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438457.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 21 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438457&extension=ts&play_token=A2QsKSxqxt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438456.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 22 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438456&extension=ts&play_token=XZoSpNGZ49
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438455.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 23 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438455&extension=ts&play_token=U7iVDcbpSp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438454.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 24 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438454&extension=ts&play_token=RUxGUcywlD
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438453.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 25 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438453&extension=ts&play_token=F7yxNDNPNd
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438452.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 26 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438452&extension=ts&play_token=RgjJGaYrKh
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438451.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 27 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438451&extension=ts&play_token=tf6MmX4fys
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438450.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 28 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438450&extension=ts&play_token=RrK2dU4LfI
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438449.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 29 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438449&extension=ts&play_token=r8I6uT5h1z
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438448.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 30 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438448&extension=ts&play_token=yVhP6reBzR
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438447.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 31 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438447&extension=ts&play_token=fhHGPGAuOM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438446.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 32 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438446&extension=ts&play_token=PBM7WXvlFu
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438445.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 33 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438445&extension=ts&play_token=5Y5cck6SmY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438444.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 34 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438444&extension=ts&play_token=sOsSXzQXQq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438443.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 35 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438443&extension=ts&play_token=LXO67j5nuk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438442.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 36 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438442&extension=ts&play_token=TTI471jtQ3
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438441.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 37 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438441&extension=ts&play_token=nvgnuhhmM2
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438440.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 38 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438440&extension=ts&play_token=pz0nrpezlw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438439.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 39 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438439&extension=ts&play_token=Uj1iymPjy3
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438438.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 40 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438438&extension=ts&play_token=lyeAHYlN3b
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438437.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 41 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438437&extension=ts&play_token=qzhqsO8szg
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438436.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 42 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438436&extension=ts&play_token=zKpx3ykceq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438435.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 43 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438435&extension=ts&play_token=GDon2tDovT
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438434.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 44 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438434&extension=ts&play_token=FoAQnNi9Ky
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438433.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 45 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438433&extension=ts&play_token=0hjxY6hxKc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438432.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 46 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438432&extension=ts&play_token=49NK5m1IZE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438431.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 47 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438431&extension=ts&play_token=NkIev35YSt
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438430.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 48 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438430&extension=ts&play_token=9ZWzMUlXmZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438429.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 49 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438429&extension=ts&play_token=8zORGs1iqq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1438428.png" group-title="US| CINEMANIA HOLLYWOOD",US| CINEMANIA HOLLYWOOD 50 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1438428&extension=ts&play_token=wBCVtovAp6
+#EXTINF:-1 tvg-logo="" group-title="US| CINEMANIA TV SHOWS",##### CINEMANIA TV SHOWS #####
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430483&extension=ts&play_token=N98TyCOYaE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430482.png" group-title="US| CINEMANIA TV SHOWS",US| CM APPLE TV PLUS 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430482&extension=ts&play_token=dy1NDc0ElN
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430481.png" group-title="US| CINEMANIA TV SHOWS",US| CM APPLE TV PLUS 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430481&extension=ts&play_token=Vd2tSNSorQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430480.png" group-title="US| CINEMANIA TV SHOWS",US| CM APPLE TV PLUS 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430480&extension=ts&play_token=enZhyyBCCJ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430479.png" group-title="US| CINEMANIA TV SHOWS",US| CM DISNEY PLUS 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430479&extension=ts&play_token=U0zJZl9j5l
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430478.png" group-title="US| CINEMANIA TV SHOWS",US| CM DISNEY PLUS 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430478&extension=ts&play_token=zeVvWujItE
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430477.png" group-title="US| CINEMANIA TV SHOWS",US| CM DISNEY PLUS 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430477&extension=ts&play_token=Ljy7YZrp4J
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430476.png" group-title="US| CINEMANIA TV SHOWS",US| CM DISNEY PLUS 4 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430476&extension=ts&play_token=7uzRUwGugf
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430475.png" group-title="US| CINEMANIA TV SHOWS",US| CM DISNEY PLUS 5 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430475&extension=ts&play_token=icduVlfBhQ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430474.png" group-title="US| CINEMANIA TV SHOWS",US| CM AMAZON 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430474&extension=ts&play_token=By3GucP1bL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430473.png" group-title="US| CINEMANIA TV SHOWS",US| CM AMAZON 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430473&extension=ts&play_token=HvcaaSGJRe
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430472.png" group-title="US| CINEMANIA TV SHOWS",US| CM AMAZON 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430472&extension=ts&play_token=AZSnFIkQAZ
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430471.png" group-title="US| CINEMANIA TV SHOWS",US| CM AMAZON 4 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430471&extension=ts&play_token=Ytz5tvkhd5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430470.png" group-title="US| CINEMANIA TV SHOWS",US| CM AMAZON 5 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430470&extension=ts&play_token=YgtJviLfCY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430469.png" group-title="US| CINEMANIA TV SHOWS",US| CM NETFLIX 1 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430469&extension=ts&play_token=nYDbkwDmE5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430468.png" group-title="US| CINEMANIA TV SHOWS",US| CM NETFLIX 2 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430468&extension=ts&play_token=W3gd5GjPvb
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430467.png" group-title="US| CINEMANIA TV SHOWS",US| CM NETFLIX 3 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430467&extension=ts&play_token=vZElNvR11X
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430466.png" group-title="US| CINEMANIA TV SHOWS",US| CM NETFLIX 4 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430466&extension=ts&play_token=mroCm1sK0t
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430465.png" group-title="US| CINEMANIA TV SHOWS",US| CM NETFLIX 5 FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430465&extension=ts&play_token=gNoxK7tDmQ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1430463.png" group-title="US| CINEMANIA TV SHOWS",US| 21 JUMP STREET FHD
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1430463&extension=ts&play_token=9QlK4Fnb2r
