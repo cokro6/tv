@@ -4880,119 +4880,154 @@ http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=3169
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=993131&extension=ts&play_token=maZ68OryTW
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/993130.png" group-title="IR| IRELAND",IR| PREMIER SPORTS 1 FHD
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=993130&extension=ts&play_token=rpKVBrbVRe
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434218.png" group-title="IR| NIFL PPV",NIFL 1 | Glentoran vs Carrick | Sat 10 3PM
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434218&extension=ts&play_token=g71uj0paNm
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434217.png" group-title="IR| NIFL PPV",NIFL 2 | Cliftonville vs Coleraine | Sat 10n 3PM
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434217&extension=ts&play_token=SG9W7OZZ4H
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434216.png" group-title="IR| NIFL PPV",NIFL 3 | Dungannon vs Crusaders | Sat 10 3PM
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434216&extension=ts&play_token=QosxVLWSYB
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434215.png" group-title="IR| NIFL PPV",NIFL 4 | Glenavon vs Linfield | Sat 10 3PM
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434215&extension=ts&play_token=NkRiLBmhs0
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434214.png" group-title="IR| NIFL PPV",NIFL 5 |
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434214&extension=ts&play_token=E8wPcrdCDO
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434213.png" group-title="IR| NIFL PPV",NIFL 6 |
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434213&extension=ts&play_token=Gpv825nbqy
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434212.png" group-title="IR| NIFL PPV",NIFL 7 |
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434212&extension=ts&play_token=POc03L6j8N
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1434211.png" group-title="IR| NIFL PPV",NIFL 8 |
-http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1434211&extension=ts&play_token=lM173tFmt6
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385575.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385575&extension=ts&play_token=b4W2qXQQVW
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385576.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385576&extension=ts&play_token=Trku8uNlgU
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385577.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385577&extension=ts&play_token=2rmHJB7oPs
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385578.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385578&extension=ts&play_token=LwOlDKYJ2l
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385579.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385579&extension=ts&play_token=m5VARj6rll
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385580.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385580&extension=ts&play_token=yo3QUr3h8g
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385581.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385581&extension=ts&play_token=F3ERUSUIOt
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385582.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385582&extension=ts&play_token=zDwe2pxP6u
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385583.png" group-title="IR| CLUBBER PPV",Clubber TV | Event 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385583&extension=ts&play_token=1NUHWq4hcP
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385584.png" group-title="IR| CLUBBER PPV",Clubber 10:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385584&extension=ts&play_token=LQUNOpPPE3
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385585.png" group-title="IR| CLUBBER PPV",Clubber 11:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385585&extension=ts&play_token=sTDe2VWs35
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385586.png" group-title="IR| CLUBBER PPV",Clubber 12:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385586&extension=ts&play_token=skpXvIYIzx
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385587.png" group-title="IR| CLUBBER PPV",Clubber 13:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385587&extension=ts&play_token=cRxPmP0mva
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385588.png" group-title="IR| CLUBBER PPV",Clubber 14:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385588&extension=ts&play_token=MN5dHFxXEm
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385589.png" group-title="IR| CLUBBER PPV",Clubber 15:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385589&extension=ts&play_token=8c4Av0fTHG
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385590.png" group-title="IR| CLUBBER PPV",Clubber 16:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385590&extension=ts&play_token=o8K4fImvlb
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385591.png" group-title="IR| CLUBBER PPV",Clubber 17:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385591&extension=ts&play_token=W4cn2iYqFO
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385592.png" group-title="IR| CLUBBER PPV",Clubber 18:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385592&extension=ts&play_token=7GsEUIT0W1
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385593.png" group-title="IR| CLUBBER PPV",Clubber 19:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385593&extension=ts&play_token=Fd2ZpMSPz0
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385594.png" group-title="IR| CLUBBER PPV",Clubber 20:
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385594&extension=ts&play_token=SipmhoRAmZ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385624.png" group-title="IR| SETANTA PPV",Setanta | Event 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385624&extension=ts&play_token=5JUcGc8eas
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385623.png" group-title="IR| SETANTA PPV",Setanta | Event 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385623&extension=ts&play_token=GKVUuYgTrW
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385622.png" group-title="IR| SETANTA PPV",Setanta | Event 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385622&extension=ts&play_token=Wl4YT46Opa
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385621.png" group-title="IR| SETANTA PPV",Setanta | Event 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385621&extension=ts&play_token=nqHpEUCaad
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385620.png" group-title="IR| SETANTA PPV",Setanta | Event 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385620&extension=ts&play_token=ln73SwETnm
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385619.png" group-title="IR| SETANTA PPV",Setanta | Event 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385619&extension=ts&play_token=fHQ2JeG9ol
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385618.png" group-title="IR| SETANTA PPV",Setanta | Event 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385618&extension=ts&play_token=EQL0cdh4s9
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385617.png" group-title="IR| SETANTA PPV",Setanta | Event 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385617&extension=ts&play_token=eldxMH8v3I
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385616.png" group-title="IR| SETANTA PPV",Setanta | Event 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385616&extension=ts&play_token=OklJf6eHtW
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385615.png" group-title="IR| SETANTA PPV",Setanta | Event 10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385615&extension=ts&play_token=w351woshiG
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385614.png" group-title="IR| SETANTA PPV",Setanta | Event 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385614&extension=ts&play_token=8Q1vwdB7uJ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385613.png" group-title="IR| SETANTA PPV",Setanta | Event 12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385613&extension=ts&play_token=Jamv5Rd65Y
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385612.png" group-title="IR| SETANTA PPV",Setanta | Event 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385612&extension=ts&play_token=Dy51RbC1pS
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385611.png" group-title="IR| SETANTA PPV",Setanta | Event 14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385611&extension=ts&play_token=7fZnmF9DWa
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385610.png" group-title="IR| SETANTA PPV",Setanta | Event 15
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385610&extension=ts&play_token=PMOJgklOQ6
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385609.png" group-title="IR| SETANTA PPV",Setanta | Event 16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385609&extension=ts&play_token=Az79aL9807
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385608.png" group-title="IR| SETANTA PPV",Setanta | Event 17
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385608&extension=ts&play_token=zgF3CuTAQA
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385607.png" group-title="IR| SETANTA PPV",Setanta | Event 18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385607&extension=ts&play_token=ocuYqjKTjP
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385606.png" group-title="IR| SETANTA PPV",Setanta | Event 19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385606&extension=ts&play_token=mWv7bxy0Q8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385605.png" group-title="IR| SETANTA PPV",Setanta | Event 20
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385605&extension=ts&play_token=9tzEvwHCmE
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385604.png" group-title="IR| SETANTA PPV",Setanta | Event 21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385604&extension=ts&play_token=mRYjYyooAd
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385603.png" group-title="IR| SETANTA PPV",Setanta | Event 22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385603&extension=ts&play_token=4WqU5Vo9TM
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385602.png" group-title="IR| SETANTA PPV",Setanta | Event 23
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385602&extension=ts&play_token=cg7ZnQkpGY
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385601.png" group-title="IR| SETANTA PPV",Setanta | Event 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385601&extension=ts&play_token=lJobFE1tZb
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385600.png" group-title="IR| SETANTA PPV",Setanta | Event 25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385600&extension=ts&play_token=PMgvR3GaOv
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385599.png" group-title="IR| SETANTA PPV",Setanta | Event 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385599&extension=ts&play_token=hPgdA1AZbx
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385598.png" group-title="IR| SETANTA PPV",Setanta | Event 27
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385598&extension=ts&play_token=KZUtFtdPWy
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385597.png" group-title="IR| SETANTA PPV",Setanta | Event 28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385597&extension=ts&play_token=Bd8h6hdUOQ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385596.png" group-title="IR| SETANTA PPV",Setanta | Event 29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385596&extension=ts&play_token=GiXjqYZknr
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1385595.png" group-title="IR| SETANTA PPV",Setanta | Event 30
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:39:37:34&stream=1385595&extension=ts&play_token=TYr7mIPRZ9
