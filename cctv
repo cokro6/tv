@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-aspect-ratio=16:9,Parkiran Arah Jalan
+#EXTINF:-1 aspect-ratio=16:9,Parkiran Arah Jalan
 rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=1&subtype=0
-#EXTINF:-1 tvg-aspect-ratio=16:9,Parkiran Arah Warung
+#EXTINF:-1 aspect-ratio=16:9,Parkiran Arah Warung
 rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=2&subtype=0
 #EXTINF:-1,Gerbang Tengah
 rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=3&subtype=0
