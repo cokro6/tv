@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1,Parkiran Arah Jalan
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=1&subtype=0
+#EXTINF:-1,Parkiran Arah Warung
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=2&subtype=0
+#EXTINF:-1,Gerbang Tengah
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=3&subtype=0
+#EXTINF:-1,Joglo Arah Jalan
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=4&subtype=0
+#EXTINF:-1,Pintu Gudang Arah Jalan
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=5&subtype=0
+#EXTINF:-1,R Tengah
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=6&subtype=0
+#EXTINF:-1,Pintu Pa Emon
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=7&subtype=0
+#EXTINF:-1,R Tunggu
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=8&subtype=0
+#EXTINF:-1,Gudang Arah Luar
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=9&subtype=0
+#EXTINF:-1,Taman Arah WC
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=10&subtype=0
+#EXTINF:-1,Gudang Arah Dalam
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=11&subtype=0
+#EXTINF:-1,Ruang JS
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=12&subtype=0
+#EXTINF:-1,Joglo Arah Dalam
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=13&subtype=0
+#EXTINF:-1,Gerbang Depan
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=14&subtype=0
+#EXTINF:-1,Gerbang Samping
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=15&subtype=0
+#EXTINF:-1,Kolam
+rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=16&subtype=0
+
+#EXTINF:-1,R Podcast
+rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=1&subtype=0
+#EXTINF:-1,R GYM
+rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=2&subtype=0
+#EXTINF:-1,Pintu Ruang Bendahara
+rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=3&subtype=0
+#EXTINF:-1,RPP
+rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=4&subtype=0
