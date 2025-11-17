@@ -50,13 +50,23 @@ rtsp://admin:kpu657118@192.168.100.187:554/cam/realmonitor?channel=16&subtype=0&
 
 #EXTINF:-1,R Podcast
 #EXTVLCOPT:aspect-ratio=16:9
-rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=1&subtype=0&resolution=1920x1080
+rtsp://admin:admin123@192.168.100.158:554/cam/realmonitor?channel=1&subtype=0&resolution=1920x1080
 #EXTINF:-1,R GYM
 #EXTVLCOPT:aspect-ratio=16:9
-rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=2&subtype=0&resolution=1920x1080
+rtsp://admin:admin123@192.168.100.158:554/cam/realmonitor?channel=2&subtype=0&resolution=1920x1080
 #EXTINF:-1,Pintu Ruang Bendahara
 #EXTVLCOPT:aspect-ratio=16:9
-rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=3&subtype=0&resolution=1920x1080
+rtsp://admin:admin123@192.168.100.158:554/cam/realmonitor?channel=3&subtype=0&resolution=1920x1080
 #EXTINF:-1,RPP
 #EXTVLCOPT:aspect-ratio=16:9
-rtsp://admin:admin123@192.168.100.18:554/cam/realmonitor?channel=4&subtype=0&resolution=1920x1080
+rtsp://admin:admin123@192.168.100.158:554/cam/realmonitor?channel=4&subtype=0&resolution=1920x1080
+
+#EXTINF:-1,Aula
+#EXTVLCOPT:aspect-ratio=16:9
+rtsp://admin:admin123@192.168.100.81:554/cam/realmonitor?channel=1&subtype=0&resolution=1920x1080
+#EXTINF:-1,Aula
+#EXTVLCOPT:aspect-ratio=16:9
+rtsp://admin:admin123@192.168.100.81:554/cam/realmonitor?channel=2&subtype=0&resolution=1920x1080
+#EXTINF:-1,Aula
+#EXTVLCOPT:aspect-ratio=16:9
+rtsp://admin:admin123@192.168.100.81:554/cam/realmonitor?channel=3&subtype=0&resolution=1920x1080
