@@ -8,6 +8,28 @@
 
 #EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel_id=412112" url-tvg="https://epg.pw/api/epg.xml?channel_id=412112" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="HBO Group", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="HBO Group", HBO HITS
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="HBO Group", HBO SIGNATURE
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="HBO Group", HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="HBO Group", CINEMAX
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="HBO Group",HBO No Subs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
@@ -52,28 +74,6 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-
-#EXTINF:-1 tvg-id="hboasia.sg" tvg-name="HBO" tvg-logo="https://i.imgur.com/3XzNuk5.png" group-title="HBO Group", HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
-
-
-#EXTINF:-1 tvg-id="hbohitsasia.sg" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/K5xCzXk.png" group-title="HBO Group", HBO HITS
-https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
-
-#EXTINF:-1 tvg-id="hbosignatureasia.sg" tvg-name="HBO SIGNATURE" tvg-logo="https://i.imgur.com/qsF5hyT.png" group-title="HBO Group", HBO SIGNATURE
-https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
-
-#EXTINF:-1 tvg-id="hbofamilyasia.sg" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/jJz1hIo.png" group-title="HBO Group", HBO FAMILY
-https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
-
-#EXTINF:-1 tvg-id="cinemaxasia.sg" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/3MoQpGy.png" group-title="HBO Group", CINEMAX
-https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
