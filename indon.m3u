@@ -2027,7 +2027,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
 #https://pidio.becek.workers.dev/17938.mpd
 #https://aspaltvpasti.top/11111/17938.mpd
 
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Champions_TV_logo.png/512px-Champions_TV_logo.png10823120818" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_Champions_TV_2.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2036,7 +2036,7 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
 https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
-#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.pngroup-title=" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 3
+#EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="OLAHRAGA INTERNASIONAL",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
