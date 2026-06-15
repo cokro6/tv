@@ -54,7 +54,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
-#EXTINF:-1 group-title="01. FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Miramax_logo.svg/512px-Miramax_logo.svg.png",MIRAMAX 01. FILM
+#EXTINF:-1 group-title="01. FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Miramax_logo.svg/512px-Miramax_logo.svg.png",MIRAMAX FILM
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2939,48 +2939,11 @@ https://firstmedia.ambatukan.workers.dev/21/index.mpd
 https://firstmedia.ambatukan.workers.dev/68/index.mpd
 
 
+#EXTINF:-1,FIFA World Cup 2026 🇦🇷[coming]  group-title="21. World Cup 2026"
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+
 #EXTINF:-1,FIFA World Cup 2026 🇧🇷[coming] group-title="21. World Cup 2026"
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 
-#EXTINF:-1,Sony Max HD group-title="21. World Cup 2026"
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SONY MAX 2 group-title="21. World Cup 2026"
-http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
-#EXTINF:-1,Gazi TV group-title="21. World Cup 2026"
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1,NAGORIK HD group-title="21. World Cup 2026"
-http://198.195.239.50:8095/nagorik/index.m3u8
-#EXTINF:-1,T Sports HD group-title="21. World Cup 2026"
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A Sports HD group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/309.m3u8
-#EXTINF:-1,PTV Sports group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/313.m3u8
-#EXTINF:-1,Willow group-title="21. World Cup 2026"
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
-#EXTINF:-1,FOX SPORTS 501 HD group-title="21. World Cup 2026"
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
-‎
-#EXTINF:-1,SKY SPORTS CRICKET group-title="21. World Cup 2026"
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
-#EXTINF:-1,SONY SPORTS 1HD group-title="21. World Cup 2026"
-http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
-#EXTINF:-1,SONY SPORTS 2 HD 🅰️ group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/304.m3u8
-#EXTINF:-1,SONY SPORTS 2 HD 🅱️ group-title="21. World Cup 2026"
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
-#EXTINF:-1,SONY SPORTS 5 HD group-title="21. World Cup 2026"
-http://66.102.126.10:8000/play/a010/index.m3u8
-#EXTINF:-1, Star Sports 1 HD group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/258.m3u8
-#EXTINF:-1, Star Sports 2 HD group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/255.m3u8
-#EXTINF:-1,STAR SPORTS SELECT 1 HD group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/244.m3u8
-#EXTINF:-1,STAR SPORTS SELECT 2 HD group-title="21. World Cup 2026"
-http://103.204.43.87:8080/live/1/1/243.m3u8
-
-#EXTINF:-1,STABLE-SPORTS TV group-title="21. World Cup 2026"
-http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
